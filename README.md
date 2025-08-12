@@ -1,4 +1,4 @@
-# 📊 Reportes Financieros de Ingresos y Utilidad
+# Reportes Financieros de Ingresos y Utilidad
 
 Este proyecto consistió en el desarrollo de **dos dashboards financieros interactivos** utilizando **Power BI**, enfocados respectivamente en los ingresos y en la utilidad de la empresa. La división permitió un análisis más profundo y enfocado de cada indicador, ofreciendo a la organización información clara, precisa y alineada con sus necesidades estratégicas.
 
